@@ -140,7 +140,7 @@ const About = () => {
                 <h1>My Favorite Boy Band: EXO</h1>
                 <p>EXO debuted on April 8, 2012. EXO is composed of two groups: EXO-K and EXO-M. EXO-K promotes in Korea, while EXO-M promotes in China. 
                   Their fandom name is called EXO-L. So it's called EXO-L because in the middle of K and M there is L; also, the L in EXO-L means LOVE.
-                  If you still wanna know more contact.</p>
+                  If you still want to know more, please contact me.</p>
               </div>
             )}
             <button onClick={closeModal}>Close</button>
